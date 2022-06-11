@@ -1,3 +1,3 @@
 ## Welcome to the pages
 
-https://github.com/shallow-rs
+[shallow](https://github.com/shallow-rs)
